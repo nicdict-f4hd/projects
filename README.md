@@ -19,3 +19,5 @@ Mohammed Ayaan Ahmed
 
 ## Project Link
 [View on GitHub](https://github.com/nicdict-f4hd/projects)
+## Project URL
+https://github.com/nicdict-f4hd/projects
